@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MMO_DCM-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\MMO_DCMEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMO_DCM\GameCharacter.gen.cpp.obj"
+"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMO_DCM\MMO_DCM.init.gen.cpp.obj"
+"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMO_DCM\MMO_DCM_GameModeBase.gen.cpp.obj"
+"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMO_DCM\GameCharacter.cpp.obj"
+"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMO_DCM\MMO_DCM.cpp.obj"
+"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMO_DCM\MMO_DCM_GameModeBase.cpp.obj"
+"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMO_DCM\Default.rc2.res"
+/OUT:"V:\UE5\Projects\MMO_DCM\MMO_DCM\Intermediate\Build\Win64\x64\UnrealEditor\Development\MMO_DCM\UnrealEditor-MMO_DCM-0005.lib"

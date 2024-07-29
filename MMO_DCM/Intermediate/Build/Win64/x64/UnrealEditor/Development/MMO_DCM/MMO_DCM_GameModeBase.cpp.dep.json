@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\source\\mmo_dcm\\mmo_dcm_gamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\intermediate\\build\\win64\\x64\\mmo_dcmeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mmo_dcm\\definitions.mmo_dcm.h",
+            "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\source\\mmo_dcm\\mmo_dcm_gamemodebase.h",
+            "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\source\\mmo_dcm\\gamecharacter.h",
+            "v:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "v:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\intermediate\\build\\win64\\unrealeditor\\inc\\mmo_dcm\\uht\\gamecharacter.generated.h",
+            "v:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "v:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "v:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "v:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\intermediate\\build\\win64\\unrealeditor\\inc\\mmo_dcm\\uht\\mmo_dcm_gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MMO_DCM",
+			"Path": "..\\Source\\MMO_DCM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MMO_DCMEditor",
+			"Path": "..\\Source\\MMO_DCMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

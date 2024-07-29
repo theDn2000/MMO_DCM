@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"V:\\UE5\\Projects\\MMO_DCM\\MMO_DCM\\Source\\MMO_DCM\\MMO_DCM.Build.cs",
+		"V:\\UE5\\Projects\\MMO_DCM\\MMO_DCM\\Source\\MMO_DCM.Target.cs",
+		"V:\\UE5\\Projects\\MMO_DCM\\MMO_DCM\\Source\\MMO_DCMEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}

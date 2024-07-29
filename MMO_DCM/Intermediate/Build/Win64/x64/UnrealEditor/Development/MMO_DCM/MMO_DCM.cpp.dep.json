@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\source\\mmo_dcm\\mmo_dcm.cpp",
+        "ProvidedModule": "",
+        "PCH": "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\intermediate\\build\\win64\\x64\\mmo_dcmeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mmo_dcm\\definitions.mmo_dcm.h",
+            "v:\\ue5\\projects\\mmo_dcm\\mmo_dcm\\source\\mmo_dcm\\mmo_dcm.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
